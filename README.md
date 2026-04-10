@@ -1,3 +1,4 @@
 # spraycode
-this is my first repo
-Author- Sayantan Das
+This is my first repository.
+<br>
+Author- Sayantan Das.
